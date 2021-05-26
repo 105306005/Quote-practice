@@ -4,7 +4,8 @@
 ## General info
 
 This project is a quote generator.
-<img src="https://maggiepractice.s3.amazonaws.com/quotegenerator.gif" width="40" height="40" />
+
+<img src="https://maggiepractice.s3.amazonaws.com/quotegenerator.gif" width="400" height="400" />
 
 ## Technologies
 
