@@ -5,7 +5,7 @@
 
 This project is a quote generator.
 
-<img src="https://maggiepractice.s3.amazonaws.com/quotegenerator.gif" width="400" />
+<img src="https://maggiepractice.s3.amazonaws.com/quotegenerator2.gif" width="600" />
 
 ## Technologies
 
