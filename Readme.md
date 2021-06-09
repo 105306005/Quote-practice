@@ -7,6 +7,8 @@ This project is a quote generator.
 
 <img src="https://maggiepractice.s3.amazonaws.com/quotegenerator2.gif" width="600" />
 
+Website Demo✨: https://105306005.github.io/Quote-practice/
+
 ## Technologies
 
 Project is created with:
